@@ -1,0 +1,1 @@
+The MVA code for October will be released alongside the code for our current work, which is nearing completion. This work also involves converting an LLM based on Softmax Attention into a linear model, achieving the same retrieval, few-shot, and long-term reasoning performance as Full Attention. This will result in the current optimal linear large model.
